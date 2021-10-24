@@ -1,6 +1,7 @@
-package com.example.demo.models;
+package com.example.demospringjavabasic.models;
 
-import com.example.demo.models.DTOs.RoomDTO;
+
+import com.example.demospringjavabasic.models.dto.RoomDTO;
 
 public class RoomCalculator {
 

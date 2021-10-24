@@ -1,4 +1,4 @@
-package com.example.demo.models.DTOs;
+package com.example.demospringjavabasic.models.dto;
 
 public class AgeDTO {
     private String date;

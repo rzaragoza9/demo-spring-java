@@ -1,8 +1,8 @@
-package com.example.demo.controllers;
+package com.example.demospringjavabasic.controllers;
 
-import com.example.demo.models.DTOs.AgeDTO;
-import com.example.demo.models.AgeCalculator;
-import com.example.demo.models.DTOs.DateDTO;
+import com.example.demospringjavabasic.models.AgeCalculator;
+import com.example.demospringjavabasic.models.dto.AgeDTO;
+import com.example.demospringjavabasic.models.dto.DateDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

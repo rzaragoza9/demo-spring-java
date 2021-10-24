@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demospringjavabasic.models;
 
 public class RomanNumerals {
     public static String convertDecimalToRoman(int num) {

@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demospringjavabasic.models;
 
 import java.util.Hashtable;
 import java.util.Set;

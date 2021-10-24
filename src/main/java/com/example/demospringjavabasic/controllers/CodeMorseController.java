@@ -1,6 +1,6 @@
-package com.example.demo.controllers;
+package com.example.demospringjavabasic.controllers;
 
-import com.example.demo.models.CodeMorse;
+import com.example.demospringjavabasic.models.CodeMorse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

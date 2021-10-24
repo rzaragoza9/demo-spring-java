@@ -1,8 +1,8 @@
-package com.example.demo.controllers;
+package com.example.demospringjavabasic.controllers;
 
-import com.example.demo.models.DTOs.HomeDTO;
-import com.example.demo.models.DTOs.ValueHomeDTO;
-import com.example.demo.models.HomeCalculator;
+import com.example.demospringjavabasic.models.HomeCalculator;
+import com.example.demospringjavabasic.models.dto.HomeDTO;
+import com.example.demospringjavabasic.models.dto.ValueHomeDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

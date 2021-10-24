@@ -1,4 +1,4 @@
-package com.example.demo.models.DTOs;
+package com.example.demospringjavabasic.models.dto;
 
 import java.util.List;
 
