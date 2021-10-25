@@ -11,11 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class CalculateController {
-    private final CalculateService calculateService;
-
-    public CalculateController(CalculateService calculateService) {
-        this.calculateService = calculateService;
-    }
+    @Autowired
+    private CalculateService calculateService;
 
     @GetMapping("/{location}")
     public ResponseEntity<PriceDTO> calculate(@PathVariable String location){
